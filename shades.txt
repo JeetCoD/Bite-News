@@ -1,0 +1,10 @@
+ primary #081245
+#020515
+#ced0da #b5b8c7 #9ca0b5 #060e37 #040923 #212a58
+
+lightest bg #e6e7ec
+
+
+ p-primary #2bde73 #40e181 #d5f8e3 #aaf2c7 #80ebab #1e9b51 #80ebab #6be89d #95efb9 #bff5d5 #eafcf1
+
+ btn clr #27c868
